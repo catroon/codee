@@ -1,0 +1,11 @@
+.DS_STORE
+/dist/
+/build/
+.ipynb_checkpoints/
+/rampy.egg-info/
+/.pytest_cache/
+/.cache/
+__pycache__
+.pyc
+make.bat
+Makefile
